@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block head %}
+    <title>Acasa</title>
+{% endblock %}
+{% block body %}
+    <h3>Bun venit {{info.nume}} {{info.prenume}} din familia {{info.nume_familie}}</h3>
+    <br/>
+    Cheltuieli:
+    <br/>
+    <ul>
+        <li>Intretinere: {{info.intretinere}} lei.</li>
+        <li>Mancare: {{info.mancare}} lei.</li>
+        <li>Distractie: {{info.distractie}} lei.</li>
+        <li>Scoala: {{info.scoala}} lei.</li>
+        <li>Personale: {{info.personale}} lei.</li>
+    </ul>
+    <br/>
+    <a href="statistici-familie">Statisticile familiei</a>
+    <br/>
+    <a href="actualizeaza-date">Actualizeaza date personale</a>
+    <br/>
+    <a href="/logout">Log out</a>
+{% endblock %}

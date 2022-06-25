@@ -1,0 +1,12 @@
+{"type":"intrebare","destinationType":"1toa","responseType":"Public","destination":"2","content":"WWWWW","source":"1"}
+{"type":"intrebare","destinationType":"1to1","responseType":"Public","destination":"2","content":"WWWWW","source":"1"}
+{"type":"raspuns","destinationType":"1to1","responseType":"Public","destination":"1","content":"WWWWW","source":"4"}
+{"type":"raspuns","destinationType":"1to1","responseType":"Privat","destination":"2","content":"WWWWW","source":"1"}
+
+{"type":"raspuns","destinationType":"1to1","responseType":"Privat","destination":"10","content":"Raspuns 1","source":"1"}
+{"type":"raspuns","destinationType":"1to1","responseType":"Privat","destination":"10","content":"Raspuns 2","source":"2"}
+
+{"type":"raspuns","destinationType":"1to1","responseType":"Public","destination":"10","content":"Raspuns 1","source":"1"}
+{"type":"raspuns","destinationType":"1to1","responseType":"Public","destination":"10","content":"Raspuns 2","source":"2"}
+
+{"type":"raspuns","destinationType":"1to1","responseType":"Public","destination":"10","content":"Raspuns 1","source":"1"}

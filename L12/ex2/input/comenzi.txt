@@ -1,0 +1,2 @@
+ps -wauxf
+ip a

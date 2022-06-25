@@ -1,0 +1,1 @@
+hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming*.jar -input /user/hduser/input -output /user/hduser/output -mapper /home/hduser/temaex3/mapper.py -reducer /home/hduser/temaex3/reducer.py -file /home/hduser/temaex3/mapper.py -file /home/hduser/temaex3/reducer.py

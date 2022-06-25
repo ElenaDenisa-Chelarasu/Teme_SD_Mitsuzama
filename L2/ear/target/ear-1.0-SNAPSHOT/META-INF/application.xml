@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/application_7.xsd" version="7">
+  <display-name>ear</display-name>
+  <module>
+    <ejb>com.sd.laborator-ejbs-1.0-SNAPSHOT.jar</ejb>
+  </module>
+  <module>
+    <web>
+      <web-uri>com.sd.laborator-servlet-1.0-SNAPSHOT.war</web-uri>
+      <context-root>/servlet</context-root>
+    </web>
+  </module>
+</application>

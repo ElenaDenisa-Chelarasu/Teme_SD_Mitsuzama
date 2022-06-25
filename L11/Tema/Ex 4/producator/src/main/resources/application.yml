@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: consumator
+  server:
+    port: 8081

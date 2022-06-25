@@ -1,0 +1,6 @@
+beans/StudentBean.class
+ProcessStudentServlet.class
+HelloServlet.class
+DeleteStudentServlet.class
+ReadStudentServlet.class
+ModificaStudentServlet.class

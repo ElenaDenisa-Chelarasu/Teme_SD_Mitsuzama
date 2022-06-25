@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block head %}
+    <title>Log in</title>
+{% endblock %}
+{% block body %}
+    <form method="post">
+        Nume utilizator: <input type="text" name="user_name" required/><br/>
+        Parola: <input type="password" name="password" required/><br/>
+        <input type="submit" value="Logheaza-te">
+    </form>
+{% endblock %}

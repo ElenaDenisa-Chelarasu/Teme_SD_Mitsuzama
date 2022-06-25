@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.sd.laborator
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [app-name, http-client, junit, kotlin, kotlin-application, logback, maven, netty-server, readme, shade, yaml]

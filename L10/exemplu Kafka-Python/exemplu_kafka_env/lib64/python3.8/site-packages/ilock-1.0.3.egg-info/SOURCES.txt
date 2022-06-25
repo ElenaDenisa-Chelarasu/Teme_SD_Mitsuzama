@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+ilock/__init__.py
+ilock.egg-info/PKG-INFO
+ilock.egg-info/SOURCES.txt
+ilock.egg-info/dependency_links.txt
+ilock.egg-info/requires.txt
+ilock.egg-info/top_level.txt

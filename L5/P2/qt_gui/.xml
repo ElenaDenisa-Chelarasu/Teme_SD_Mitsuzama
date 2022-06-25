@@ -1,0 +1,26 @@
+<books>
+	<book>
+		<nume>Steaua Sudului</nume>
+		<autor>Jules Verne</autor>
+		<editura>Corint</editura>
+		<continut>Nemaipomeniti sunt francezii astia! - Vorbiti, domnule, va ascult! ....</continut>
+	</book>
+	<book>
+		<nume>O calatorie spre centrul pamantului</nume>
+		<autor>Jules Verne</autor>
+		<editura>Polirom</editura>
+		<continut>Cuvant Inainte. Imaginatia copiilor - zicea un mare poet romantic spaniol - este asemenea unui cal nazdravan, iar curiozitatea lor e pintenul ce-l fugareste prin lumea celor mai indraznete proiecte.</continut>
+	</book>
+	<book>
+		<nume>Insula Misterioasa</nume>
+		<autor>Jules Verne</autor>
+		<editura>Teora</editura>
+		<continut>Partea intai. Naufragiatii vazduhului. Capitolul 1. Uraganul din 1865. ...</continut>
+	</book>
+	<book>
+		<nume>Casa cu aburi</nume>
+		<autor>Jules Verne</autor>
+		<editura>Albatros</editura>
+		<continut>Capitolul I. S-a pus un premiu pe capul unui om. Se ofera premiu de 2000 de lire ...</continut>
+	</book>
+</books>

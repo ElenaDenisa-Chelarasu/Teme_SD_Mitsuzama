@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6cbe5aa-8094-4a97-be63-a6b9dda28c51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L2/servlets/servlet/src/main/java/StartMonitoringServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L2/servlets/servlet/src/main/java/StartMonitoringServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L2/studenti.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L2/studenti.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L3/TemaInlantuire/src/main/kotlin/com/sd/laborator/services/WeatherAppController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L3/TemaInlantuire/src/main/kotlin/com/sd/laborator/services/WeatherAppController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L4/Tema/services/ExpiredSessionCollector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L4/Tema/services/ExpiredSessionCollector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/Diagrama lucru in laborator.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/Diagrama lucru in laborator.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/DiagramaOspatariBucatari.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/DiagramaOspatariBucatari.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/exemplul_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/exemplul_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/mq_communication.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/mq_communication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/P2/qt_gui/exemplul_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/P2/qt_gui/exemplul_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L6/Ultimul Subpunct Tema/CacheMicroservice/cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L6/Ultimul Subpunct Tema/CacheMicroservice/cache.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L6/Ultimul Subpunct Tema/LibraryApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L6/Ultimul Subpunct Tema/LibraryApp/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="2" />
+  </component>
+  <component name="ProjectId" id="1XkgXuxplD16HT8pvJV1EaQB01Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/petru/SD/L8/Reproiectat, cu corutine/UtilitiesWithCoroutines",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "aDefault"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.sd.laborator.abstractClasses" />
+      <recent name="com.sd.laborator.interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.MainKt (1)">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.MainKt" />
+      <module name="Utilities" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.MainKt" />
+      <module name="HelloMicroservice_Maven" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt (1)" />
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6cbe5aa-8094-4a97-be63-a6b9dda28c51" name="Default Changelist" comment="" />
+      <created>1581595549126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581595549126</updated>
+      <workItem from="1649699773891" duration="425000" />
+      <workItem from="1649788281557" duration="61000" />
+      <workItem from="1649788348820" duration="141000" />
+      <workItem from="1649788496872" duration="2683000" />
+      <workItem from="1649824816481" duration="997000" />
+      <workItem from="1649856404997" duration="2944000" />
+      <workItem from="1649921748104" duration="13531000" />
+      <workItem from="1649943036399" duration="4939000" />
+      <workItem from="1649999048006" duration="2824000" />
+      <workItem from="1650030827232" duration="705000" />
+      <workItem from="1650181071014" duration="295000" />
+      <workItem from="1650182592736" duration="1566000" />
+      <workItem from="1650185475420" duration="691000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

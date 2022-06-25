@@ -1,0 +1,64 @@
+<!DOCTYPE web-app PUBLIC
+        "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+        "http://java.sun.com/dtd/web-app_2_3.dtd" >
+<web-app>
+    <display-name>Web Component App</display-name>
+
+    <servlet>
+        <servlet-name>ProcessBankOperation</servlet-name>
+        <servlet-class>ProcessBankOperationServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>ProcessStudent</servlet-name>
+        <servlet-class>ProcessStudentServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>FetchStudentList</servlet-name>
+        <servlet-class>FetchStudentListServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>StergeStudent</servlet-name>
+        <servlet-class>StergeStudentServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>StartMonitoring</servlet-name>
+        <servlet-class>StartMonitoringServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>StopMonitoring</servlet-name>
+        <servlet-class>StopMonitoringServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>MonitoringStatus</servlet-name>
+        <servlet-class>MonitoringStatusServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>ProcessBankOperation</servlet-name>
+        <url-pattern>/process-bank-operation</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ProcessStudent</servlet-name>
+        <url-pattern>/process-student</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>FetchStudentList</servlet-name>
+        <url-pattern>/fetch-student-list</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>StergeStudent</servlet-name>
+        <url-pattern>/sterge</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>StartMonitoring</servlet-name>
+        <url-pattern>/start-monitoring</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>StopMonitoring</servlet-name>
+        <url-pattern>/stop-monitoring</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>MonitoringStatus</servlet-name>
+        <url-pattern>/monitoring-status</url-pattern>
+    </servlet-mapping>
+</web-app>

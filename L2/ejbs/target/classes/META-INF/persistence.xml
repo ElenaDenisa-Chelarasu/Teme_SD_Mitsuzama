@@ -1,0 +1,16 @@
+<persistence xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
+             version="2.0"
+             xmlns="http://java.sun.com/xml/ns/persistence">
+    <persistence-unit name="bazaDeDateSQLite" transaction-type="RESOURCE_LOCAL">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <class>ejb.StudentEntity</class>
+        <properties>
+            <property name="javax.persistence.jdbc.driver" value="org.sqlite.JDBC" />
+            <property name="javax.persistence.jdbc.url"
+                      value="jdbc:sqlite:/home/petru/SD/L2/studenti.db" />
+            <property name="eclipselink.logging.level" value="ALL" />
+            <property name="eclipselink.ddl-generation" value="create-tables" />
+        </properties>
+    </persistence-unit>
+</persistence>

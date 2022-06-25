@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AutoImportedSourceRoots">
+    <option name="directories">
+      <list>
+        <option value="$MODULE_DIR$/exemplu-micronaut-maven/src/main/kotlin" />
+        <option value="$MODULE_DIR$/exemplu-micronaut-maven/src/test/kotlin" />
+        <option value="$MODULE_DIR$/exemplu-micronaut-maven/target/generated-sources/kapt/test" />
+      </list>
+    </option>
+  </component>
+</module>

@@ -1,0 +1,21 @@
+StudentPort: 1650, 1651 ...
+StudentID: 10, 11 ...
+
+TeacherPort: 1600
+TeacherID: 20
+
+MessageManager:
+	CommandsPort: 1500
+	GeneralPort: 1501 
+
+HeartBeatPort: 1700
+
+StudentRegistryPort: 1800
+
+CatalogPort: 1900
+
+AssistentPort: 2000
+AssistentValidateConnexionsPort: 2100
+AssistentID: 21
+
+Catalog -> StudentRegistry -> HeartBeat -> MessageManager -> Assistent -> Teacher -> Student -> GUI

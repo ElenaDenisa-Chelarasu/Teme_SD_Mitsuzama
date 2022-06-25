@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>LibraryApp</title>
+	<meta charset="utf-8" />
+</head>
+<body>
+	<form action="/send-request" method="POST">
+		<fieldset>
+			<legend>LibraryApp</legend>
+			<input type="text" name="termenCautare" placeholder="Cauta dupa autor / titlu / editura" />
+			<button type="submit">Cautare</button>
+			<br/>
+			<input type="radio" id="autor" name="autor" value="autor" checked="checked"/>
+			<label for="autor">Autor</label><br>
+			<input type="radio" id="titlu" name="titlu" value="titlu"/>
+			<label for="titlu">Titlu</label><br>
+			<input type="radio" id="editura" name="editura" value="editura"/>
+			<label for="editura">Editura</label>
+			<br />
+			<br />
+			<div id="result" style="min-height: 150px; border: 3px solid">
+			{{response}}
+			</div>
+			<br />
+			<input type="radio" id="json" name="json" value="json" checked="checked"/>
+			<label for="json">JSON</label><br>
+			<input type="radio" id="html" name="html" value="html"/>
+			<label for="html">HTML</label><br>
+			<input type="radio" id="text" name="text" value="text"/>
+			<label for="text">Text</label>
+		</fieldset>
+	</form>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Acasa</title>
+    </head>
+    <body>
+        <h1>Salut!</h1>
+        <button onclick="buttonClick('Buton 1')">Buton 1</button>
+        &nbsp;&nbsp;<span id="Buton 1">Frecventa: Necunoscuta</span>
+        <br/>
+        <button onclick="buttonClick('Buton 2')">Buton 2</button>
+        &nbsp;&nbsp;<span id="Buton 2">Frecventa: Necunoscuta</span>
+        <br/>
+        <button onclick="buttonClick('Buton 3')">Buton 3</button>
+        &nbsp;&nbsp;<span id="Buton 3">Frecventa: Necunoscuta</span>
+        <br/>
+        <br/>
+        <button onclick="updateClicks()">Actualizare frecvente</button>
+    </body>
+</html>
+<script>
+    function buttonClick(name) {
+        let clickedButton = { button: name };
+        let json = JSON.stringify(clickedButton);
+        let url = 'http://localhost:8080/';
+        let xhr = new XMLHttpRequest();
+        xhr.open('POST', url, true);
+        xhr.setRequestHeader('Content-Type', 'application/json');
+        xhr.send(json);
+        xhr.onload = () => {
+            if(xhr.status === 201)
+                console.log('Successful POST!');
+        };
+    }
+
+    function updateClicks() {
+        let url = 'http://localhost:8080/clicks';
+        let xhr = new XMLHttpRequest();
+        xhr.open('GET', url, true);
+        xhr.onreadystatechange = function () {
+            if(this.readyState === 4 && this.status === 200) {
+                response = JSON.parse(this.responseText);
+                console.log(response);
+                Object.getOwnPropertyNames(response).forEach( it => {
+                    let spanElement = document.getElementById(it)
+                    if(spanElement)
+                        spanElement.innerHTML = `Frecventa: ${response[it]}`;
+                })
+            }
+        };
+        xhr.send();
+    }
+</script>

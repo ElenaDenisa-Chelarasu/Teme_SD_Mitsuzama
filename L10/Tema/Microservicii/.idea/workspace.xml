@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4c296d9-a170-406f-a2ba-87ce583f7449" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MonitorizareMicroservicii/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../MonitorizareMicroservicii/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Resources/apache-kafka-on-k8s" beforeDir="false" afterPath="$PROJECT_DIR$/../../Resources/apache-kafka-on-k8s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Microservicii.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Microservicii.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/LaunchAuction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L2/servlets/servlet/src/main/java/StartMonitoringServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L2/servlets/servlet/src/main/java/StartMonitoringServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L2/studenti.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L2/studenti.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L3/TemaInlantuire/src/main/kotlin/com/sd/laborator/services/WeatherAppController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L3/TemaInlantuire/src/main/kotlin/com/sd/laborator/services/WeatherAppController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L4/Tema/services/ExpiredSessionCollector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L4/Tema/services/ExpiredSessionCollector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/Diagrama lucru in laborator.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/Diagrama lucru in laborator.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/DiagramaOspatariBucatari.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/DiagramaOspatariBucatari.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/exemplul_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/exemplul_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/mq_communication.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/mq_communication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/P2/qt_gui/exemplul_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/P2/qt_gui/exemplul_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L6/Ultimul Subpunct Tema/CacheMicroservice/cache.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L6/Ultimul Subpunct Tema/CacheMicroservice/cache.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L6/Ultimul Subpunct Tema/LibraryApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L6/Ultimul Subpunct Tema/LibraryApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L9/Tema ex 1/Source/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L9/Tema ex 1/Source/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L9/Tema ex 1/commands.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L9/Tema ex 1/commands.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L9/Tema ex 1/lastResult" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L9/Tema ex 1/lastResult" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LaunchAuction.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29I0sdSi6xglqXUBmWGu62KTMyG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/petru/SD/L10/Tema/Microservicii",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4c296d9-a170-406f-a2ba-87ce583f7449" name="Changes" comment="" />
+      <created>1652785500193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652785500193</updated>
+      <workItem from="1652785501463" duration="17000" />
+      <workItem from="1652785534109" duration="763000" />
+      <workItem from="1652965320146" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

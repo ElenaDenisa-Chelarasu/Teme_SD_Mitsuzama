@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaeeab89-547c-4d96-90d9-fe18d79942f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L1/P1Tema/studenti.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L2/servlets/servlet/src/main/java/StartMonitoringServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L2/servlets/servlet/src/main/java/StartMonitoringServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L2/studenti.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L2/studenti.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L3/TemaInlantuire/src/main/kotlin/com/sd/laborator/services/WeatherAppController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L3/TemaInlantuire/src/main/kotlin/com/sd/laborator/services/WeatherAppController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L4/Tema/services/ExpiredSessionCollector.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L4/Tema/services/ExpiredSessionCollector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/Diagrama lucru in laborator.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/Diagrama lucru in laborator.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/DiagramaOspatariBucatari.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/DiagramaOspatariBucatari.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/exemplul_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/exemplul_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/mq_communication.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/P2/qt_gui adaptor neblocant/mq_communication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../L5/P2/qt_gui/exemplul_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../L5/P2/qt_gui/exemplul_2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XdGO16bIDTKiOUFeGXdY0FkrhX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FastSearchMicroservice" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Maven.LibraryApp [spring-boot:run]">
+    <configuration name="LibraryAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sd.laborator.LibraryAppKt" />
+      <module name="LibraryApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryApp [spring-boot:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="spring-boot:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="LibraryApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="LibraryApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sd.laborator.LibraryApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.LibraryAppKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaeeab89-547c-4d96-90d9-fe18d79942f5" name="Default Changelist" comment="" />
+      <created>1581368521262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581368521262</updated>
+      <workItem from="1648661182976" duration="5545000" />
+      <workItem from="1648711048147" duration="201000" />
+      <workItem from="1648715786559" duration="1627000" />
+      <workItem from="1648726718494" duration="4216000" />
+      <workItem from="1648822965107" duration="786000" />
+      <workItem from="1648890525814" duration="2444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/sd/laborator/presentation/controllers/LibraryPrinterController.kt</url>
+          <line>92</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/sd/laborator/presentation/controllers/LibraryPrinterController.kt</url>
+          <line>105</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

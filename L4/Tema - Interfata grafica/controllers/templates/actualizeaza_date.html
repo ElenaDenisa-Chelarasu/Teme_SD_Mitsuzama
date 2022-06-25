@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block head %}
+    <title>Actualizeaza date</title>
+{% endblock %}
+{% block body %}
+    <h3>Actualizeaza datele</h3>
+    <br/>
+    <form method="post">
+        Nume: <input type="text" name="nume" value="{{info.nume}}" required/><br/>
+        Prenume: <input type="text" name="prenume" value="{{info.prenume}}" required/><br/>
+        Nume familie: <input type="text" name="nume_familie" value="{{info.nume_familie}}" required/><br/>
+        Intretinere: <input type="number" name="intretinere" value="{{info.intretinere}}" required/><br/>
+        Mancare: <input type="number" name="mancare" value="{{info.mancare}}" required/><br/>
+        Distractie: <input type="number" name="distractie" value="{{info.distractie}}" required/><br/>
+        Scoala: <input type="number" name="scoala" value="{{info.scoala}}" required/><br/>
+        Personale: <input type="number" name="personale" value="{{info.personale}}" required/><br/>
+        <input type="submit" value="Actualizeaza">
+    </form>
+    <br/>
+    <a href="/">Acasa</a>
+{% endblock %}

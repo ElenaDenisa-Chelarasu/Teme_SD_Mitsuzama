@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block head %}
+    <title>Statistici</title>
+{% endblock %}
+{% block body %}
+    <h1>Statisticile familiei {{infos[0].nume_familie}}</h1>
+    <br/>
+    {% for info in infos %}
+        Membru: {{info['nume']}} {{info['prenume']}}
+        <br/>
+        Cheltuieli:
+        <br/>
+        <ul>
+            <li>Intretinere: {{info['intretinere']}} lei.</li>
+            <li>Mancare: {{info['mancare']}} lei.</li>
+            <li>Distractie: {{info['distractie']}} lei.</li>
+            <li>Scoala: {{info['scoala']}} lei.</li>
+            <li>Personale: {{info['personale']}} lei.</li>
+        </ul>
+    {% endfor %}
+    <br/>
+    <h3>Cheltuieli in total:</h3>
+    <br/>
+    <ul>
+        <li>Intretinere: {{cheltuieli_totale['intretinere']}} lei.</li>
+        <li>Mancare: {{cheltuieli_totale['mancare']}} lei.</li>
+        <li>Distractie: {{cheltuieli_totale['distractie']}} lei.</li>
+        <li>Scoala: {{cheltuieli_totale['scoala']}} lei.</li>
+        <li>Personale: {{cheltuieli_totale['personale']}} lei.</li>
+    </ul>
+    <br/>
+    <h1>Total: {{cheltuieli_totale['total']}} lei</h1>
+    <br/>
+    <a href="/">Acasa</a>
+{% endblock %}

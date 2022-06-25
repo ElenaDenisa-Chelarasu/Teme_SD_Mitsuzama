@@ -1,0 +1,6 @@
+<studenti>
+	<StudentBean><nume>BabiucPetru</nume><prenume>Petru</prenume><varsta>22</varsta></StudentBean>
+	<StudentBean><nume>WWW</nume><prenume>AAA</prenume><varsta>12</varsta></StudentBean>
+	<StudentBean><nume>WWWAAW</nume><prenume>AAA</prenume><varsta>12</varsta></StudentBean>
+	<StudentBean><nume>CC</nume><prenume>DD</prenume><varsta>25</varsta></StudentBean>
+</studenti>
